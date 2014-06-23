@@ -2,7 +2,7 @@
 
 ## Downloads
 
-* **[CentOS-6.5-x86_64-v20140623.box](http://colinhoernig.io/downloads/vagrant-boxes/CentOS-6.5-x86_64-v2014023.box):** CentOS 6.5 x86\_64 Minimal *(VirtualBox Guest Additions 4.3.10, Chef 11.12.4, Puppet 3.5.1)*  
+* **[CentOS-6.5-x86_64-v20140623.box](http://colinhoernig.io/downloads/vagrant-boxes/CentOS-6.5-x86_64-v20140623.box):** CentOS 6.5 x86\_64 Minimal *(VirtualBox Guest Additions 4.3.10, Chef 11.12.4, Puppet 3.5.1)*  
   <small>sha256sum: `9c3fa69e71615b7ec9884c1d4472dd83491dfe4353f209f4a7f21453fc68344c`</small>
 
 ## How these boxes were built
